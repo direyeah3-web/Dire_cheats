@@ -4,11 +4,11 @@
 -- ============================================================================
 
 -- ========================================
--- >>> WELCOME TO HAMSECHEATS VIP MOD PAK FILE <<<
+-- >>> WELCOME TO DIRECHEATS VIP MOD PAK FILE <<<
 -- =======================================
 -- =======================================
 -- CREDIT: @HAMSECHEATS - SOMALI VIP PAK
--- CONTACT: Telegram @hamsecheatsvip
+-- CONTACT: Telegram DIRECHEATS
 -- VERSION: 4.6 PAK EDITION (FIXED LICENSE SYSTEM)
 -- ========================================
 
